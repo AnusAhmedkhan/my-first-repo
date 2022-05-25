@@ -104,3 +104,24 @@ video{
 /* height: 200px;
 width: 250px; */
 }
+@media only screen and (max-width: 600px) {
+
+    div.parent{
+        background-color: #128C7E;
+        color: white;
+        text-align: left;
+        height: 200px;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 150%;
+        
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        /* background-image: url(./WhatsApp.svg\ \(1\).png);
+        background-repeat: no-repeat;
+        background-size: 35px; */
+   
+        /* z-index: 1; */
+    }
+
+  }
